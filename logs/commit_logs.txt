@@ -1,0 +1,223 @@
+commit 78192f0e25cfe78abd291d677deb6d023067b005 (HEAD -> main, origin/main)
+commit 78192f0e25cfe78abd291d677deb6d023067b005 (HEAD -> main, origin/main)
+Merge: a2ce9a5 8596f84
+Author: yurizip <yurigiuliano82@gmail.com>
+Date:   Fri Oct 4 21:19:30 2024 -0300
+commit 78192f0e25cfe78abd291d677deb6d023067b005 (HEAD -> main, origin/main)
+Merge: a2ce9a5 8596f84
+Author: yurizip <yurigiuliano82@gmail.com>
+Date:   Fri Oct 4 21:19:30 2024 -0300
+
+    Merge branch 'main' of github.com:yurizip/numero-secreto
+commit 78192f0e25cfe78abd291d677deb6d023067b005 (HEAD -> main, origin/main)
+Merge: a2ce9a5 8596f84
+Author: yurizip <yurigiuliano82@gmail.com>
+Date:   Fri Oct 4 21:19:30 2024 -0300
+
+    Merge branch 'main' of github.com:yurizip/numero-secreto
+
+commit a2ce9a5969f9f6466a00d449f8c5633562b11648
+commit 78192f0e25cfe78abd291d677deb6d023067b005 (HEAD -> main, origin/main)
+Merge: a2ce9a5 8596f84
+Author: yurizip <yurigiuliano82@gmail.com>
+Date:   Fri Oct 4 21:19:30 2024 -0300
+
+    Merge branch 'main' of github.com:yurizip/numero-secreto
+
+commit a2ce9a5969f9f6466a00d449f8c5633562b11648
+Author: yurizip <yurigiuliano82@gmail.com>
+Date:   Fri Oct 4 21:19:03 2024 -0300
+commit 78192f0e25cfe78abd291d677deb6d023067b005 (HEAD -> main, origin/main)
+Merge: a2ce9a5 8596f84
+Author: yurizip <yurigiuliano82@gmail.com>
+Date:   Fri Oct 4 21:19:30 2024 -0300
+
+    Merge branch 'main' of github.com:yurizip/numero-secreto
+
+commit a2ce9a5969f9f6466a00d449f8c5633562b11648
+Author: yurizip <yurigiuliano82@gmail.com>
+Date:   Fri Oct 4 21:19:03 2024 -0300
+
+    mudanca de titulo e gitignore
+commit 78192f0e25cfe78abd291d677deb6d023067b005 (HEAD -> main, origin/main)
+Merge: a2ce9a5 8596f84
+Author: yurizip <yurigiuliano82@gmail.com>
+Date:   Fri Oct 4 21:19:30 2024 -0300
+
+    Merge branch 'main' of github.com:yurizip/numero-secreto
+
+commit a2ce9a5969f9f6466a00d449f8c5633562b11648
+Author: yurizip <yurigiuliano82@gmail.com>
+Date:   Fri Oct 4 21:19:03 2024 -0300
+
+    mudanca de titulo e gitignore
+
+commit 78192f0e25cfe78abd291d677deb6d023067b005 (HEAD -> main, origin/main)
+Merge: a2ce9a5 8596f84
+Author: yurizip <yurigiuliano82@gmail.com>
+Date:   Fri Oct 4 21:19:30 2024 -0300
+
+    Merge branch 'main' of github.com:yurizip/numero-secreto
+
+commit a2ce9a5969f9f6466a00d449f8c5633562b11648
+Author: yurizip <yurigiuliano82@gmail.com>
+Date:   Fri Oct 4 21:19:03 2024 -0300
+
+    mudanca de titulo e gitignore
+
+commit 8596f846e1089839781789b63797b476b7e134af
+Author: Yuri <161314222+yurizip@users.noreply.github.com>
+commit 78192f0e25cfe78abd291d677deb6d023067b005 (HEAD -> main, origin/main)
+Merge: a2ce9a5 8596f84
+Author: yurizip <yurigiuliano82@gmail.com>
+Date:   Fri Oct 4 21:19:30 2024 -0300
+
+    Merge branch 'main' of github.com:yurizip/numero-secreto
+
+commit a2ce9a5969f9f6466a00d449f8c5633562b11648
+Author: yurizip <yurigiuliano82@gmail.com>
+Date:   Fri Oct 4 21:19:03 2024 -0300
+
+    mudanca de titulo e gitignore
+
+commit 8596f846e1089839781789b63797b476b7e134af
+Author: Yuri <161314222+yurizip@users.noreply.github.com>
+Date:   Fri Oct 4 21:08:32 2024 -0300
+
+commit 78192f0e25cfe78abd291d677deb6d023067b005 (HEAD -> main, origin/main)
+Merge: a2ce9a5 8596f84
+Author: yurizip <yurigiuliano82@gmail.com>
+Date:   Fri Oct 4 21:19:30 2024 -0300
+
+    Merge branch 'main' of github.com:yurizip/numero-secreto
+
+commit a2ce9a5969f9f6466a00d449f8c5633562b11648
+Author: yurizip <yurigiuliano82@gmail.com>
+Date:   Fri Oct 4 21:19:03 2024 -0300
+
+    mudanca de titulo e gitignore
+
+commit 8596f846e1089839781789b63797b476b7e134af
+Author: Yuri <161314222+yurizip@users.noreply.github.com>
+Date:   Fri Oct 4 21:08:32 2024 -0300
+
+    Create README.md
+commit 78192f0e25cfe78abd291d677deb6d023067b005 (HEAD -> main, origin/main)
+Merge: a2ce9a5 8596f84
+Author: yurizip <yurigiuliano82@gmail.com>
+Date:   Fri Oct 4 21:19:30 2024 -0300
+
+    Merge branch 'main' of github.com:yurizip/numero-secreto
+
+commit a2ce9a5969f9f6466a00d449f8c5633562b11648
+Author: yurizip <yurigiuliano82@gmail.com>
+Date:   Fri Oct 4 21:19:03 2024 -0300
+
+    mudanca de titulo e gitignore
+
+commit 8596f846e1089839781789b63797b476b7e134af
+Author: Yuri <161314222+yurizip@users.noreply.github.com>
+Date:   Fri Oct 4 21:08:32 2024 -0300
+
+    Create README.md
+
+commit dddc4550f4a7f33aed7295b7408a421160b8654f
+commit 78192f0e25cfe78abd291d677deb6d023067b005 (HEAD -> main, origin/main)
+Merge: a2ce9a5 8596f84
+Author: yurizip <yurigiuliano82@gmail.com>
+Date:   Fri Oct 4 21:19:30 2024 -0300
+
+    Merge branch 'main' of github.com:yurizip/numero-secreto
+
+commit a2ce9a5969f9f6466a00d449f8c5633562b11648
+Author: yurizip <yurigiuliano82@gmail.com>
+Date:   Fri Oct 4 21:19:03 2024 -0300
+
+    mudanca de titulo e gitignore
+
+commit 8596f846e1089839781789b63797b476b7e134af
+Author: Yuri <161314222+yurizip@users.noreply.github.com>
+Date:   Fri Oct 4 21:08:32 2024 -0300
+
+    Create README.md
+
+commit dddc4550f4a7f33aed7295b7408a421160b8654f
+Author: yurizip <yurigiuliano82@gmail.com>
+Date:   Fri Oct 4 18:02:12 2024 -0300
+commit 78192f0e25cfe78abd291d677deb6d023067b005 (HEAD -> main, origin/main)
+Merge: a2ce9a5 8596f84
+Author: yurizip <yurigiuliano82@gmail.com>
+Date:   Fri Oct 4 21:19:30 2024 -0300
+
+    Merge branch 'main' of github.com:yurizip/numero-secreto
+
+commit a2ce9a5969f9f6466a00d449f8c5633562b11648
+Author: yurizip <yurigiuliano82@gmail.com>
+Date:   Fri Oct 4 21:19:03 2024 -0300
+
+    mudanca de titulo e gitignore
+
+commit 8596f846e1089839781789b63797b476b7e134af
+Author: Yuri <161314222+yurizip@users.noreply.github.com>
+Date:   Fri Oct 4 21:08:32 2024 -0300
+
+    Create README.md
+
+commit dddc4550f4a7f33aed7295b7408a421160b8654f
+Author: yurizip <yurigiuliano82@gmail.com>
+Date:   Fri Oct 4 18:02:12 2024 -0300
+
+:...skipping...
+commit 78192f0e25cfe78abd291d677deb6d023067b005 (HEAD -> main, origin/main)
+Merge: a2ce9a5 8596f84
+Author: yurizip <yurigiuliano82@gmail.com>
+Date:   Fri Oct 4 21:19:30 2024 -0300
+
+    Merge branch 'main' of github.com:yurizip/numero-secreto
+
+commit a2ce9a5969f9f6466a00d449f8c5633562b11648
+Author: yurizip <yurigiuliano82@gmail.com>
+Date:   Fri Oct 4 21:19:03 2024 -0300
+
+    mudanca de titulo e gitignore
+
+commit 8596f846e1089839781789b63797b476b7e134af
+Author: Yuri <161314222+yurizip@users.noreply.github.com>
+Date:   Fri Oct 4 21:08:32 2024 -0300
+
+    Create README.md
+
+commit dddc4550f4a7f33aed7295b7408a421160b8654f
+Author: yurizip <yurigiuliano82@gmail.com>
+Date:   Fri Oct 4 18:02:12 2024 -0300
+
+    Revert "removendo imagem"
+:...skipping...
+commit 78192f0e25cfe78abd291d677deb6d023067b005 (HEAD -> main, origin/main)
+Merge: a2ce9a5 8596f84
+Author: yurizip <yurigiuliano82@gmail.com>
+Date:   Fri Oct 4 21:19:30 2024 -0300
+
+    Merge branch 'main' of github.com:yurizip/numero-secreto
+
+commit a2ce9a5969f9f6466a00d449f8c5633562b11648
+Author: yurizip <yurigiuliano82@gmail.com>
+Date:   Fri Oct 4 21:19:03 2024 -0300
+
+    mudanca de titulo e gitignore
+
+commit 8596f846e1089839781789b63797b476b7e134af
+Author: Yuri <161314222+yurizip@users.noreply.github.com>
+Date:   Fri Oct 4 21:08:32 2024 -0300
+
+    Create README.md
+
+commit dddc4550f4a7f33aed7295b7408a421160b8654f
+Author: yurizip <yurigiuliano82@gmail.com>
+Date:   Fri Oct 4 18:02:12 2024 -0300
+
+    Revert "removendo imagem"
+
+    This reverts commit ad175d3f79448fead7bfbbec9a6566afbbcee4db.
+
+commit ad175d3f79448fead7bfbbec9a6566afbbcee4db
